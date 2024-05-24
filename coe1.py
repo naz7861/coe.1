@@ -1,5 +1,5 @@
 # coe.1
-Create lower triangular, upper triangular and pyramid containing the "*" character
+#Create lower triangular, upper triangular and pyramid containing the "*" character
 def lower_triangular(n):
     for i in range(n):
         for j in range(i + 1):
